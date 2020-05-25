@@ -32,4 +32,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
+# A cute pic of a dog
+![cute_dog](http://3.bp.blogspot.com/-sWdCJqdgrbU/T_peu9rUdVI/AAAAAAAAESE/SpWF93ljOYs/s1600/Beautiful+dog+hd+Wallpapers_1.jpg)
+
 [About Me](about)
