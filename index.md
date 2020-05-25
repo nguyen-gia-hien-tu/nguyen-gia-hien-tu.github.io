@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
 
+# Cool Picture
+![Cool Picture](79652.jpg)
+
 You can use the [editor on GitHub](https://github.com/nguyen-gia-hien-tu/Hien_Tu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
