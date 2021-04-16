@@ -38,7 +38,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 # A cute pic of a dog
 ![cute_dog](http://3.bp.blogspot.com/-sWdCJqdgrbU/T_peu9rUdVI/AAAAAAAAESE/SpWF93ljOYs/s1600/Beautiful+dog+hd+Wallpapers_1.jpg)
 
-[About Me](about)
+[About Me](about.md)
 
 # Align Right on the Same Line
 Align-left Text | | Align-right Text
